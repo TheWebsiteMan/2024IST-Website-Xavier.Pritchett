@@ -1,0 +1,7 @@
+body {
+  background-color: #c8f7cf;
+}
+
+.bg-body-tertiary {
+  background-color: #c8facf !important;
+}
